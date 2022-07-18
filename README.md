@@ -2,6 +2,7 @@
 
 ## Présentation
 Ce **projet** a pour but de mettre en oeuvre `git`.
+Vous trouverez aussi un fichier `main.py`.
 
 ## Création d'un projet avec git
 Dans votre dossier lancez la commande:
